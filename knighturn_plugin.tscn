@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddfe620a5xg2c"]
+
+[ext_resource type="Script" path="res://KnighturnPlugin.cs" id="1_makkq"]
+
+[node name="KnighturnPlugin" type="Node"]
+script = ExtResource("1_makkq")
