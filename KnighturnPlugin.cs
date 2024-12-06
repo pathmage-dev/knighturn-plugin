@@ -1,5 +1,6 @@
 global using System;
 global using Godot;
+global using pathmage.KnightmareEngine;
 global using pathmage.ToolKit;
 global using pathmage.ToolKit.Collections;
 global using static pathmage.ToolKit.Debug.ILogger;

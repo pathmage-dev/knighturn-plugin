@@ -2,6 +2,8 @@
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnighturnPlugin", "KnighturnPlugin.csproj", "{444C4F5C-56D7-47ED-A247-CD9850414B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightmareEngine", ".git-submodules\knightmare-engine\KnightmareEngine.csproj", "{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 	Debug|Any CPU = Debug|Any CPU
@@ -15,5 +17,11 @@ Global
 		{444C4F5C-56D7-47ED-A247-CD9850414B73}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
 		{444C4F5C-56D7-47ED-A247-CD9850414B73}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
 		{444C4F5C-56D7-47ED-A247-CD9850414B73}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{CD6D4236-6A26-4515-9745-4E42FF0CB8FD}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
 	EndGlobalSection
 EndGlobal

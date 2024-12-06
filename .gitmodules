@@ -1,0 +1,3 @@
+[submodule ".git-submodules/knightmare-engine"]
+	path = .git-submodules/knightmare-engine
+	url = https://github.com/pathmage-dev/knightmare-engine

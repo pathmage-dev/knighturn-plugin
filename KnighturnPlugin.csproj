@@ -12,4 +12,8 @@
       <PackageReference Include="pathmage.ToolKit" Version="1.0.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include=".git-submodules\knightmare-engine\KnightmareEngine.csproj" />
+    </ItemGroup>
+
 </Project>
